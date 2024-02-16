@@ -17,7 +17,7 @@ docker compose up
 
 3. container access
 ```sh
-docker compose -it ruby_boot ash
+docker compose exec ruby ash
 ```
 
 4. exec ruby or irb
