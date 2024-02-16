@@ -21,6 +21,11 @@ docker compose exec ruby ash
 ```
 
 4. exec ruby or irb
+- change dir
+```sh
+cd app
+```
+- exec 
 ```sh
 ruby hoge.rb
 ```
