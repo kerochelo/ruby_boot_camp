@@ -2,7 +2,7 @@
 ### setup
 0. clone
 ```sh
-$ git clone 
+$ git clone git@github.com:kerochelo/ruby_boot_camp.git
 ```
 
 1. build
