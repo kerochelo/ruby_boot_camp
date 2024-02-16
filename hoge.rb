@@ -1,0 +1,2 @@
+hoge = 'victory!'
+puts hoge

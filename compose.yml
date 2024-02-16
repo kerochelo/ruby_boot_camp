@@ -1,0 +1,8 @@
+services:
+  ruby:
+    build: .
+    container_name: ruby_boot
+    tty: true
+    stdin_open: true
+    volumes:
+      - .:/app
